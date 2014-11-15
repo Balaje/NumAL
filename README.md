@@ -20,7 +20,7 @@ NumAL
   9. Lagrange Interpolation
   10. Newton's Divided Difference (Interpolation)
   11. Newton's Forward Difference (Interpolation)
-  12. Newton's Backward Difference (Interpolation)
+  12. Newton's Backward Difference(Interpolation)
   
  ***Algorithms Coming Up!!***
   1. Newton Method to solve a system of Non-Linear Equation)
