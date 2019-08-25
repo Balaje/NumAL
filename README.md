@@ -1,5 +1,5 @@
-NumAL
-=====
+[NumAL](https://github.com/Balaje/NumAL)
+========================================
 
 **Instructions**
   1. Run main.m from Matlab
